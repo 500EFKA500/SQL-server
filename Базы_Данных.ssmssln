@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Базы_Данных", "Базы_Данных\Базы_Данных.ssmssqlproj", "{21E41F7F-3885-4009-AFFD-9A7687F604BE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ТипыДанных", "ТипыДанных\ТипыДанных.ssmssqlproj", "{AD0E0AE4-8DA4-4E6F-B6D3-E6575086988E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "таблицы", "таблицы\таблицы.ssmssqlproj", "{D26BFBE8-DA78-4171-BE5F-63BD705F1361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E41F7F-3885-4009-AFFD-9A7687F604BE}.Default|Default.ActiveCfg = Default
+		{25844C1C-7645-4C97-A752-AE1A500B3197}.Default|Default.ActiveCfg = Default
+		{AD0E0AE4-8DA4-4E6F-B6D3-E6575086988E}.Default|Default.ActiveCfg = Default
+		{D26BFBE8-DA78-4171-BE5F-63BD705F1361}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C82F70C-487F-4E11-9BAF-D5B1EC32CF95}
+	EndGlobalSection
+EndGlobal
