@@ -1,0 +1,6 @@
+USE DB3
+go
+
+SELECT first_name
+ORDER BY RAND()
+FROM users2222
