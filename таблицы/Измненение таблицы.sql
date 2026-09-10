@@ -1,0 +1,4 @@
+USE DB1
+
+ALTER TABLE users2
+ALTER COLUMN adress nchar(100)

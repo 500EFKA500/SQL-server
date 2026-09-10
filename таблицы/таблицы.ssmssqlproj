@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>Заполнение таблицы.sql</FullPath>
         </FileNode>
+        <FileNode Name="Измненение таблицы.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Измненение таблицы.sql</FullPath>
+        </FileNode>
         <FileNode Name="Создание таблицы.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
